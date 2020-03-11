@@ -1,0 +1,40 @@
+power_plant,date_commissioned,province,installed_capacity_MW,status,coordinates,operator,planned_decommissioning_date
+Arnot Power Station,1971,Mpumalanga,2.352,Operational,25°56′38″S 29°47′22″E,Eskom,2025
+Camden Power Station,1967,Mpumalanga,1.561,Operational,26°37′13″S 30°05′38″E,Eskom,2020
+Duvha Power Station,1980,Mpumalanga,3.6,Operational,25°57′50″S 29°20′14″E,Eskom,2030
+Grootvlei  Power Station,1969,Mpumalanga,1.18,Operational,"33.6745° S, 18.4330° E",Eskom,2025
+Hendrina  Power Station,1970,Mpumalanga,1.893,Operational,26°01′59″S 29°36′00″E,Eskom,2021
+Kelvin  Power Station,1957,Gauteng,214,Operational,26°06′58″S 28°11′38″E,Aldwych International,
+Kendal Power Station,1988,Mpumalanga,4.116,Operational,26°05′24″S 28°58′17″E,Eskom,2038
+Komati  Power Station,1961,Mpumalanga,990,Operational,26°05′24″S 29°28′19″E,Eskom,2024
+Kriel  Power Station,1976,Mpumalanga,3,Operational,26°15′15″S 29°10′46″E,Eskom,2026
+Kusile  Power Station,2017,Mpumalanga,0,Under construction,25°54′59″S 28°55′02″E,Eskom,
+Lethabo Power Station,1985,Free State,3.708,Operational,26°44′31″S 27°58′39″E,Eskom,2035
+Majuba Power Station,1996,Mpumalanga,4.11,Operational,27°06′02″S 29°46′17″E,Eskom,2046
+Matimba Power Station,1987,Limpopo ,3.99,Operational,23°40′06″S 27°36′38″E,Eskom,2037
+Matla Power Station,1979,Mpumalanga,3.6,Operational,26°16′57″S 29°08′27″E,Eskom,2029
+Medupi Power Station,2015,Limpopo,4.764,1st unit operational,"23°42′00""S 27°33′00""E",Eskom,
+Pretoria West Power Station,1952,Gauteng,180,Operational,25°45′28″S 28°08′49″E,City of Tshwane,2016
+Rooiwal Power Station,1963,Gauteng,300,Operational,25°33′21″S 28°14′18″E,City of Tshwane,2025
+Tutuka Power Station,1985,Mpumalanga,3.654,Operational,26°46′43″S 29°21′07″E,Eskom,2035
+Koeberg nuclear power station ,1984,Western Cape,1.86,Operational,33°40′35″S 18°25′55″E,Eskom,
+Klipheuwel Wind Farm ,2002,Western Cape,3.16,Decommissioned,33°41′43″S 18°43′30″E,Eskom,
+Sere Wind Farm ,2013,Western Cape,100,Operational,31°29′49″S 18°03′48″E,Eskom,
+Acacia Power Station,1976,Western Cape,171,Operational,33°53′00″S 18°32′08″E,Eskom,
+Ankerlig Power Station,2007,Western Cape,1338,Operational,33°35′32″S 18°27′37″E,Eskom,
+Gourikwa Power Station,2007,Western Cape,746,Operational,34°10′00″S 21°57′38″E,Eskom,
+Newcastle Cogenerarion Plant,2007,KwaZulu-Natal,18,Operational,27°47′08″S 29°58′11″E,IPSA Group,
+Port Rex power Station,1976,Eastern Cape,171,Operational,33°01′43″S 27°52′52″E,Eskom,
+Tubatse Pumped storage scheme,,Limpopo,1500,Project on hold,25°07′51″S 29°49′24″E,Eskom,
+Ingula Pumped storage Scheme,2017,Kwazulu Natal,1332,Operational,28°16′50″S 29°35′12″E,Eskom,
+Drakensberg pumped storage scheme,1981,Free State,1000,operational,28°34′23″S 29°05′13″E,Eskom,
+Gariep dam,1971,Free State / Eastern Cape,360,Operational,30°37′25″S 25°30′23″E,Eskom,
+Palmiet pumped storage scheme,1988,Western Cape,400,Operational,34°11′52″S 18°58′27″E,Eskom,
+steenbras power station (pumped storage),1979,Western Cape,180,Operational,34°09′09″S 18°53′56″E,City of Cape Town,
+Vanderkloof dam,1977,Northern Cape,240,Operational,29°59′32″S 24°43′54″E,Eskom,
+Colley Wobbles power station,,Eastern Cape,42,Operational,32°00′02″S 28°34′59″E,Eskom,
+Ncora Dam power station,,Eastern Cape,2.1,Operational,31°47′15″S 27°40′01″E,Eskom,
+Sol Plaatjie power station,2009,Free State,3,Operational,28°12′58″S 28°21′49″E,Bethlehem Hydro,
+Merino power station,2010,Free State,4,Operational,28°21′49″S 28°21′42″E,Bethlehem Hydro,
+Kakamans hydro electric,2015,Northern Cape,10,Operational,28°46′01″S 20°43′36″E,Kakamas Hydro Electric Power ,
+Kruisvallei hydro,,Free State,4.7,Under construction,33°53′08″S 23°09′56″E,Building Energy,
