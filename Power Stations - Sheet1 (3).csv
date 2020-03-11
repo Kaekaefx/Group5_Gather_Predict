@@ -1,0 +1,41 @@
+station_name,station_type,location,province,coordinates,status,installed_capacity_MW,operator,date_commissioned,planned_decommissioning_date
+Arnot,Coal,Middleburg,Mpumalanga,25°56′38″S 29°47′22″E,Operational,2.352,Eskom,1971,2025
+Camden,Coal,Ermelo,Mpumalanga,26°37′13″S 30°05′38″E,Operational,1.561,Eskom,1967,2020
+Duvha,Coal,Emalahleni,Mpumalanga,25°57′50″S 29°20′14″E,Operational,3.6,Eskom,1980,2030
+Grootvlei,Coal,Grootvlei,Mpumalanga,"33°40'28""S 18°25'58""E",Operational,1.18,Eskom,1969,2025
+Hendrina,Coal,Hendrina,Mpumalanga,26°01′59″S 29°36′00″E,Operational,1.893,Eskom,1970,2021
+Kelvin,Coal,Ekurhuleni,Gauteng,26°06′58″S 28°11′38″E,Operational,214,Aldwych International,1957,
+Kendal,Coal,Emalahleni,Mpumalanga,26°05′24″S 28°58′17″E,Operational,4.116,Eskom,1988,2038
+Komati,Coal,Middleburg,Mpumalanga,26°05′24″S 29°28′19″E,Operational,990,Eskom,1961,2024
+Kriel,Coal,Bethal,Mpumalanga,26°15′15″S 29°10′46″E,Operational,3,Eskom,1976,2026
+Kusile,Coal,Ogies,Mpumalanga,25°54′59″S 28°55′02″E,Under construction,0,Eskom,2017,
+Lethabo,Coal,Vereeniging,Free State,26°44′31″S 27°58′39″E,Operational,3.708,Eskom,1985,2035
+Majuba,Coal,Volksrust,Mpumalanga,27°06′02″S 29°46′17″E,Operational,4.11,Eskom,1996,2046
+Matimba,Coal,Lephalale,Limpopo ,23°40′06″S 27°36′38″E,Operational,3.99,Eskom,1987,2037
+Matla,Coal,Bethal,Mpumalanga,26°16′57″S 29°08′27″E,Operational,3.6,Eskom,1979,2029
+Medupi,Coal,Lephalale,Limpopo,"23°42′00""S 27°33′00""E",1st unit operational,4.764,Eskom,2015,
+Pretoria West,Coal,Pretoria ,Gauteng,25°45′28″S 28°08′49″E,Operational,180,City of Tshwane,1952,2016
+Rooiwal,Coal,Pretoria ,Gauteng,25°33′21″S 28°14′18″E,Operational,300,City of Tshwane,1963,2025
+Tutuka,Coal,Standerton,Mpumalanga,26°46′43″S 29°21′07″E,Operational,3.654,Eskom,1985,2035
+Koeberg,Nuclear,Cape Town ,Western Cape,33°40′35″S 18°25′55″E,Operational,1.86,Eskom,1984,
+Klipheuwel,Wind,Klipheuwel,Western Cape,33°41′43″S 18°43′30″E,Decommissioned,3.16,Eskom,2002,
+Sere,Wind,Koekenaap,Western Cape,31°29′49″S 18°03′48″E,Operational,100,Eskom,2013,
+Acacia,Gas/liquid fuel turbine stations,Cape Town ,Western Cape,33°53′00″S 18°32′08″E,Operational,171,Eskom,1976,
+Ankerlig,Gas/liquid fuel turbine stations,Atlantis,Western Cape,33°35′32″S 18°27′37″E,Operational,1338,Eskom,2007,
+Gourikwa,Gas/liquid fuel turbine stations,Mossel Bay ,Western Cape,34°10′00″S 21°57′38″E,Operational,746,Eskom,2007,
+Newcastle Cogenerarion Plant,Gas/liquid fuel turbine stations,New Castle ,KwaZulu-Natal,27°47′08″S 29°58′11″E,Operational,18,IPSA Group,2007,
+Port Rex,Gas/liquid fuel turbine stations,East London,Eastern Cape,33°01′43″S 27°52′52″E,Operational,171,Eskom,1976,
+Tubatse,Pumped storage scheme,Roossenekal,Limpopo,25°07′51″S 29°49′24″E,Project on hold,1500,Eskom,,
+Ingula,Pumped storage scheme,Ladysmith,Kwazulu Natal,28°16′50″S 29°35′12″E,Operational,1332,Eskom,2017,
+Drakensberg,Pumped storage scheme,Bergville,Free State,28°34′23″S 29°05′13″E,operational,1000,Eskom,1981,
+Gariep,Hydroelectric stations,Norvalspont,Free State,30°37′25″S 25°30′23″E,Operational,360,Eskom,1971,
+Gariep,Hydroelectric stations,Norvalspont,Eastern Cape,30°37′25″S 25°30′23″E,Operational,360,Eskom,1971,
+Palmiet,Pumped storage scheme,Grabouw,Western Cape,34°11′52″S 18°58′27″E,Operational,400,Eskom,1988,
+steenbras,Pumped storage scheme,Gordon's Bay ,Western Cape,34°09′09″S 18°53′56″E,Operational,180,City of Cape Town,1979,
+Vanderkloof,Hydroelectric stations,Petrusville,Northern Cape,29°59′32″S 24°43′54″E,Operational,240,Eskom,1977,
+Colley Wobbles,Hydroelectric stations,Mbashe river,Eastern Cape,32°00′02″S 28°34′59″E,Operational,42,Eskom,,
+Ncora,Hydroelectric stations,Ncora river,Eastern Cape,31°47′15″S 27°40′01″E,Operational,2.1,Eskom,,
+Sol Plaatjie,Hydroelectric stations,Dihlabeng ward 11,Free State,28°12′58″S 28°21′49″E,Operational,3,Bethlehem Hydro,2009,
+Merino,Hydroelectric stations,Dihlabeng ward 14,Free State,28°21′49″S 28°21′42″E,Operational,4,Bethlehem Hydro,2010,
+Kakamans,Hydroelectric stations,Neusberg weir,Northern Cape,28°46′01″S 20°43′36″E,Operational,10,Kakamas Hydro Electric Power ,2015,
+Kruisvallei,Hydroelectric stations,Kruisvallei,Free State,33°53′08″S 23°09′56″E,Under construction,4.7,Building Energy,,
